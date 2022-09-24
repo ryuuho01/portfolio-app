@@ -8,9 +8,8 @@
 ここではデスクトップで構築します  
 cd desktop  
   
-GitHubからクローンし、フォルダに移動  
-git clone https://github.com/ryuuho01/front-end.git  
-cd front-end  
+git cloneによりportfolio-appをダウンロード後、ディレクトリを移動  
+cd portfolio-app/front-end  
   
 (*)Node.jsをインストールされていない方  
 nvm install v14.18.1  
